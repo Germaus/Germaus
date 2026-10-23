@@ -8,5 +8,5 @@ Minä olen rauhallinen, ahkera, tunnollinen.
 | --- | --- | --- | --- |
 | https://github.com/Germaus/Project-2 | 05.10.2026 | HTML, CSS | Responsiivinen Order Summary -kortti Frontend Mentor -                                                    mallin pohjalta. Toteutettu puhtaalla HTML:llä ja CSS:llä Flexboxia hyödyntäen.|
 | https://github.com/Germaus/Minun-projektit | 08.10.2026 | HTML, CSS | QR-koodikomponentti Frontend Mentor -mallin pohjalta.                                                                         HTML- ja CSS-tehtävä Flexbox-kesityksellä.|
-| https://github.com/Germaus/Project | 20.10.2026 | HTML, CSS | Tehtävienhallinta Flaskilla ja puhtaalla CSS:llä. Käyttöliittymä sisältää tehtävälistan, haun, poistamisen ja uusien tehtävien lisäämisen. |
+| https://github.com/Germaus/Project | 20.10.2026 | HTML, CSS | Tehtävienhallinta Flaskilla ja puhtaalla CSS:llä. Käyttöliittymä sisältää tehtävälistan, haun, poistamisen ja uusien tehtävien lisäämisen.|
                           
