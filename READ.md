@@ -4,7 +4,7 @@ Aloin ohjelmoinnin opiskelun elokuussa 2026 Digitalents Academyssa.
 Opiskelin HTML:n ja CSS:n, ja aloitan pian JavaScriptin opiskelun.
 Minä olen rauhallinen, ahkera, tunnollinen.
 
-# 🖥️🔋Minun projektit
+#Minun projektit
 
 | Project link | Completion Date | Tools | Project Description |
 | --- | --- | --- | --- |
